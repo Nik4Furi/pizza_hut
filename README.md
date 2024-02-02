@@ -2,6 +2,8 @@
 ### Watch your nearest pizza_hut
 pizza_hut, a geographical application system, where users can watch their nearest hut to booking their pizz🍕s
 
+**<a href="https://pizza-hut-ivory.vercel.app/" target="_blank" rel="noopener noreferrer">Live</a>**
+
 ## Indexing the contents
 #### <a href="#badges" >Badges</a>
 #### <a href="#demo" >Demo</a>
